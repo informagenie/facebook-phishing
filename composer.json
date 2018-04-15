@@ -1,0 +1,22 @@
+{
+    "name": "informagenie/phishing",
+    "description": "Script permettant de faire une page de phishing",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mbungu ngoma",
+            "email": "hackmmn@gmail.com"
+        }
+    ],
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8",
+ 	"txthinking/mailer": "2.0.0",
+        "eoghanobrien/php-simple-mail": "^1.7",
+        "katzgrau/klogger": "dev-master"
+     },
+     "autoload": {
+         "psr-4": {
+             "Informagenie\\": "src/"
+         }
+     }
+}
